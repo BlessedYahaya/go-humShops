@@ -1,0 +1,19 @@
+{/* <Card>
+  <Player
+      playsInline
+      poster="/assets/poster.png"
+      src="https://firebasestorage.googleapis.com/v0/b/go-hum-test.appspot.com/o/Selam_Product2UGC.mp4?alt=media&token=472ca19e-cdb1-4f8a-97f4-491db9b57a97"
+    />
+    <CardBody>
+      <CardTitle tag="h5">
+        Card title
+      </CardTitle>
+      <img className=".img-responsive" alt="" src={'https://firebasestorage.googleapis.com/v0/b/go-hum-test.appspot.com/o/Selam_Product2-thumbnail.png?alt=media&token=77e84ed3-243a-4bf6-bb35-e337a6bcedff'} width={80} height={80} />
+      <CardText>
+        This card has supporting text below as a natural lead-in to additional content.
+      </CardText>
+      <Button>
+        Button
+      </Button>
+    </CardBody>
+  </Card> */}
