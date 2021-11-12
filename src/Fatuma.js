@@ -15,7 +15,7 @@ function Fatuma() {
           <Col sm="2" style={{float: 'right', display: 'flex', flexDirection: 'row'}}>
             <Image src={"https://firebasestorage.googleapis.com/v0/b/go-hum-test.appspot.com/o/Fatuma.jpg?alt=media&token=927ddf1b-084e-4549-99d5-3d6c0e248d75"} roundedCircle />
             <h5 style={{marginTop: 15, marginBottom:0, paddingLeft: 5}}>
-              <b>Faatuma Store</b>
+              <b>Fatuma Store</b>
             </h5>
           </Col>
 
