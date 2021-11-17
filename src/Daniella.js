@@ -43,7 +43,7 @@ function Daniella() {
     
     <CardBody>
       <CardTitle tag="h5">
-        Yellow arras jacket
+        Cosmos Notch Collar Top
       </CardTitle>
       <ReactAudioPlayer
             src="https://firebasestorage.googleapis.com/v0/b/go-hum-test.appspot.com/o/audio%20product%202%20top%20yellow%20arras.mp4?alt=media&token=74e77667-a592-4007-a3c5-d19eb9a84ef5"
@@ -76,7 +76,7 @@ function Daniella() {
     />
     <CardBody>
       <CardTitle tag="h5">
-        Sukhi Rug
+        Sukhi Rug (Kalim)
       </CardTitle>
       <ReactAudioPlayer
             src="https://firebasestorage.googleapis.com/v0/b/go-hum-test.appspot.com/o/Sukhi%20rug.mp4?alt=media&token=2f92f89a-9edc-46e6-ac60-03a4b0e97539"
@@ -112,7 +112,7 @@ function Daniella() {
             />
             <CardBody>
             <CardTitle tag="h5">
-                White Team
+              White Tea - Eau De Toilette Fragrance
             </CardTitle>
             <ReactAudioPlayer
                     src="https://firebasestorage.googleapis.com/v0/b/go-hum-test.appspot.com/o/white%20team%20audio%20note.mp4?alt=media&token=bbe54ada-074f-4950-919e-009a5f44a846"
@@ -143,7 +143,7 @@ function Daniella() {
     />
     <CardBody>
       <CardTitle tag="h5">
-        Densifique Shampoo
+      Kerastase Densifique Densite Shampoo
       </CardTitle>
       <ReactAudioPlayer
             src="https://firebasestorage.googleapis.com/v0/b/go-hum-test.appspot.com/o/densifique%20shampoo.mp4?alt=media&token=d3e8f892-8dc5-46bd-92a1-9d47b3b24d12"
