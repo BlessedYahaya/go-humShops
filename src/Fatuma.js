@@ -37,7 +37,7 @@ function Fatuma() {
     
     <CardBody>
       <CardTitle tag="h5">
-        Miniboost IG Content
+        Vitamins Miniboost IV
       </CardTitle>
       <img className=".img-responsive" alt="" src={"https://firebasestorage.googleapis.com/v0/b/go-hum-test.appspot.com/o/Miniboost%20IG_1Thumb.png?alt=media&token=0069264d-f379-4fbb-903c-62ce5826ec03"} width={80} height={80} />
       <CardText>
