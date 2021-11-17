@@ -105,7 +105,7 @@ function Daniella() {
         <Card>
             <CardImg
             alt="Card image cap"
-            src="https://firebasestorage.googleapis.com/v0/b/go-hum-test.appspot.com/o/daniela%20in%20nairobi.jpeg?alt=media&token=91f14507-16e4-4c74-bd8a-5248bf7b832a"
+            src="https://firebasestorage.googleapis.com/v0/b/go-hum-test.appspot.com/o/daniela%20in%20nairobi_cut.jpg?alt=media&token=d2b52f76-71c1-4d67-b8f1-6bd43f4b1d51"
             top
             width="100%"
             height={420}
