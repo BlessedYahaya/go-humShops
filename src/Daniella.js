@@ -89,7 +89,7 @@ function Daniella() {
       <Button onClick={ async () => 
          {
            await createLinkClickRecord(influencerId)
-          window.open('hhttps://www.amazon.co.uk/Drifter-Designer-Sunglasses-UV400-Protection/dp/B0059W3ERA/ref=sr_1_1?dchild=1&qid=1635863816&s=clothing&sr=1-1','_blank')}}>
+          window.open('https://www.sukhirugs.com/kalim-rectangle-braided-wool-rug.html','_blank')}}>
         Add to Cart
       </Button>
     </CardBody>
