@@ -3,17 +3,17 @@
   "name": "Hum Shops",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://ucarecdn.com/f550ce97-bb47-437f-8359-8b7eb2eed660/-/crop/392x192/310,389/",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://ucarecdn.com/f550ce97-bb47-437f-8359-8b7eb2eed660/-/crop/392x192/310,389/",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://ucarecdn.com/f550ce97-bb47-437f-8359-8b7eb2eed660/-/crop/392x192/310,389/",
       "type": "image/png",
       "sizes": "512x512"
     }
